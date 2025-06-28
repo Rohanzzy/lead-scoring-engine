@@ -4,13 +4,13 @@ In this project, I built a **simple rule-based lead scoring system** to help pri
 
 ---
 
-## 🚀 Problem Statement
+## Problem Statement
 
 Sales and growth teams often deal with hundreds or thousands of leads at once. Figuring out which leads are worth reaching out to first can save time and boost conversion rates.
 
 ---
 
-## ✅ What This Project Does
+## What This Project Does
 
 - Creates a **fake dataset of 1,000 outbound leads** to work with  
 - Builds a **scoring function** that gives each lead a score based on:
@@ -21,7 +21,7 @@ Sales and growth teams often deal with hundreds or thousands of leads at once. F
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 | Column                 | Description                                         |
 |-------------------------|-----------------------------------------------------|
@@ -38,22 +38,22 @@ Sales and growth teams often deal with hundreds or thousands of leads at once. F
 
 ---
 
-## 📝 How the Scoring Works
+## How the Scoring Works
 
-### 🎯 **Job Title Weighting**
+### **Job Title Weighting**
 
 - CEO, CTO: **+30 points**
 - VP Sales: **+20 points**
 - Marketing Manager: **+15 points**
 - Others: **+10 points**
 
-### ✨ **Personalization Score Impact**
+### **Personalization Score Impact**
 
 - Each personalization point adds **+3 to the score**
 
 ---
 
-### 🔢 **Final Score Calculation**
+### **Final Score Calculation**
 
 The **total score** is calculated by adding:
 
@@ -62,13 +62,13 @@ The **total score** is calculated by adding:
 
 ---
 
-## 💡 Why This Matters
+## Why This Matters
 
 Tools like [Clay.com](https://clay.com) help sales teams **enrich, clean, and prioritize leads**. This project demonstrates how **simple scoring logic** can already make a big difference before introducing machine learning models.
 
 ---
 
-## 🔗 Live Streamlit App
+## Live Streamlit App
 
 Try out the interactive app here:
 
