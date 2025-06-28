@@ -1,0 +1,1001 @@
+lead_id,job_title,company_size,industry,location,personalization_score,subject_length,day_sent,followups_sent,replied,lead_score
+L   0,COO,Scaleup,Defence,United States,9,6,Tuesday,0,1,37
+L   1,Recruiter,Enterprise,AI,United Kingdom,6,14,Monday,2,0,28
+L   2,COO,SMB,Defence,United States,4,11,Tuesday,2,0,22
+L   3,Marketing Head,Corporation,Fintech,Canada,3,14,Thursday,2,1,19
+L   4,GTM Head,Enterprise,Fintech,India,10,12,Thursday,3,1,40
+L   5,GTM Head,Corporation,AI,United States,4,13,Wednesday,3,1,22
+L   6,CMO,Scaleup,AI,India,8,7,Monday,2,1,34
+L   7,Marketing Head,Corporation,Construction,United States,3,7,Monday,0,0,19
+L   8,COO,Startup,Construction,United States,8,4,Monday,0,1,34
+L   9,Marketing Head,SMB,Healthcare,China,8,11,Monday,2,1,34
+L  10,COO,Startup,Healthcare,United Kingdom,9,15,Friday,3,1,37
+L  11,CTO,Enterprise,Defence,China,3,8,Wednesday,3,0,39
+L  12,CMO,Startup,Fintech,United Kingdom,1,15,Monday,0,0,13
+L  13,Marketing Head,Startup,AI,Canada,1,5,Tuesday,2,1,13
+L  14,CTO,Corporation,Fintech,India,6,9,Friday,3,1,48
+L  15,CMO,Scaleup,Construction,India,1,10,Monday,1,1,13
+L  16,CMO,Enterprise,Defence,Canada,1,8,Monday,3,1,13
+L  17,GTM Head,SMB,Defence,Canada,3,10,Monday,3,1,19
+L  18,Recruiter,Enterprise,Construction,United Kingdom,6,15,Wednesday,3,0,28
+L  19,GTM Head,SMB,Defence,Canada,1,8,Wednesday,2,1,13
+L  20,COO,Enterprise,Fintech,China,2,8,Monday,0,0,16
+L  21,CMO,Startup,Construction,United Kingdom,5,12,Thursday,2,0,25
+L  22,Recruiter,SMB,Defence,Canada,1,13,Tuesday,3,1,13
+L  23,Marketing Head,Scaleup,Construction,China,7,5,Wednesday,1,1,31
+L  24,Marketing Head,Enterprise,Healthcare,United States,3,10,Thursday,0,1,19
+L  25,GTM Head,Scaleup,Defence,China,5,4,Thursday,0,0,25
+L  26,CTO,Corporation,Healthcare,China,2,4,Wednesday,3,0,36
+L  27,CMO,Startup,Defence,India,8,4,Wednesday,1,0,34
+L  28,Marketing Head,SMB,Fintech,United Kingdom,1,15,Monday,3,1,13
+L  29,CEO,Corporation,Construction,Canada,4,10,Friday,0,1,42
+L  30,GTM Head,SMB,AI,India,3,15,Wednesday,0,0,19
+L  31,CMO,SMB,Construction,Canada,2,14,Monday,0,1,16
+L  32,CTO,Startup,Fintech,United Kingdom,5,14,Wednesday,2,1,45
+L  33,Marketing Head,Enterprise,AI,India,6,5,Friday,0,0,28
+L  34,GTM Head,Enterprise,Fintech,United Kingdom,9,7,Wednesday,3,0,37
+L  35,CTO,Corporation,Defence,India,1,13,Friday,3,0,33
+L  36,GTM Head,Scaleup,Defence,China,4,15,Monday,1,1,22
+L  37,Recruiter,SMB,Fintech,United Kingdom,10,13,Tuesday,0,1,40
+L  38,Recruiter,Corporation,Healthcare,Canada,1,5,Thursday,2,0,13
+L  39,COO,Enterprise,Construction,India,4,4,Monday,0,1,22
+L  40,CTO,Startup,Healthcare,United Kingdom,5,9,Tuesday,2,1,45
+L  41,Marketing Head,Enterprise,Fintech,Canada,7,15,Friday,0,1,31
+L  42,COO,Scaleup,AI,Canada,7,7,Monday,3,1,31
+L  43,CTO,Startup,Defence,China,3,14,Wednesday,1,0,39
+L  44,CEO,Enterprise,Construction,China,9,5,Friday,0,0,57
+L  45,Recruiter,Enterprise,Defence,Canada,8,15,Wednesday,2,1,34
+L  46,GTM Head,Startup,Defence,United Kingdom,2,15,Thursday,3,1,16
+L  47,CTO,Scaleup,AI,United States,10,14,Tuesday,0,1,60
+L  48,COO,Startup,AI,Canada,10,4,Wednesday,1,0,40
+L  49,CEO,Startup,Defence,United States,5,8,Monday,2,1,45
+L  50,COO,Corporation,Construction,India,4,10,Tuesday,3,0,22
+L  51,COO,SMB,AI,India,8,13,Thursday,2,0,34
+L  52,GTM Head,Enterprise,Healthcare,India,3,13,Monday,0,0,19
+L  53,CEO,SMB,AI,China,4,4,Wednesday,2,0,42
+L  54,Recruiter,Startup,Defence,India,9,8,Thursday,1,1,37
+L  55,Recruiter,Startup,Healthcare,China,1,11,Monday,3,0,13
+L  56,GTM Head,Enterprise,Healthcare,China,4,12,Tuesday,0,1,22
+L  57,CTO,Scaleup,Fintech,India,3,8,Thursday,0,1,39
+L  58,CTO,Startup,Construction,United Kingdom,1,7,Friday,0,1,33
+L  59,CEO,Startup,AI,United Kingdom,6,11,Thursday,2,0,48
+L  60,Marketing Head,Corporation,Fintech,India,10,4,Tuesday,1,1,40
+L  61,GTM Head,Corporation,Construction,United Kingdom,8,4,Wednesday,3,1,34
+L  62,CTO,Enterprise,Fintech,United States,10,6,Wednesday,1,0,60
+L  63,CTO,Corporation,Healthcare,Canada,1,12,Wednesday,1,0,33
+L  64,CMO,Scaleup,Healthcare,United Kingdom,4,9,Tuesday,0,1,22
+L  65,CTO,Startup,Defence,China,5,3,Monday,3,0,45
+L  66,CEO,Scaleup,Defence,Canada,10,14,Friday,0,1,60
+L  67,GTM Head,Corporation,AI,India,5,6,Tuesday,0,0,25
+L  68,CEO,Corporation,Fintech,United States,8,10,Thursday,3,1,54
+L  69,CTO,Scaleup,Defence,Canada,3,14,Monday,1,0,39
+L  70,CTO,Corporation,Defence,China,10,9,Wednesday,2,0,60
+L  71,Marketing Head,Enterprise,AI,United States,1,10,Thursday,3,1,13
+L  72,Marketing Head,Startup,Fintech,United States,5,13,Monday,2,1,25
+L  73,Recruiter,Scaleup,Fintech,United Kingdom,9,8,Wednesday,0,0,37
+L  74,Marketing Head,Scaleup,Fintech,United States,9,10,Monday,2,1,37
+L  75,Marketing Head,Startup,AI,China,1,5,Friday,0,0,13
+L  76,CMO,Scaleup,Healthcare,India,3,3,Thursday,3,0,19
+L  77,Recruiter,Enterprise,AI,China,5,12,Tuesday,2,1,25
+L  78,GTM Head,Startup,Healthcare,India,4,10,Wednesday,3,1,22
+L  79,CEO,SMB,Defence,India,5,4,Wednesday,0,1,45
+L  80,CEO,Enterprise,Healthcare,China,1,9,Wednesday,1,0,33
+L  81,Marketing Head,Corporation,AI,United States,1,15,Tuesday,2,1,13
+L  82,COO,Scaleup,AI,United Kingdom,9,6,Friday,0,0,37
+L  83,Marketing Head,Corporation,Construction,Canada,10,13,Friday,3,1,40
+L  84,GTM Head,Enterprise,AI,United States,9,3,Thursday,3,1,37
+L  85,CEO,Scaleup,Fintech,United Kingdom,7,9,Wednesday,2,0,51
+L  86,Marketing Head,Enterprise,Healthcare,China,2,10,Wednesday,0,0,16
+L  87,CMO,Corporation,Healthcare,India,2,8,Friday,2,0,16
+L  88,CEO,SMB,Fintech,India,6,14,Tuesday,1,0,48
+L  89,Recruiter,Enterprise,Healthcare,India,6,10,Tuesday,1,1,28
+L  90,CEO,Startup,AI,United Kingdom,4,15,Friday,3,0,42
+L  91,CEO,Corporation,AI,China,7,4,Wednesday,2,0,51
+L  92,Marketing Head,Corporation,Healthcare,Canada,4,14,Thursday,0,0,22
+L  93,Marketing Head,Enterprise,Fintech,India,4,13,Thursday,1,1,22
+L  94,CEO,Startup,AI,Canada,3,6,Tuesday,0,0,39
+L  95,CTO,Corporation,AI,United States,3,11,Tuesday,1,1,39
+L  96,GTM Head,Enterprise,Healthcare,Canada,1,11,Thursday,0,1,13
+L  97,COO,Corporation,Healthcare,Canada,7,7,Wednesday,0,0,31
+L  98,Marketing Head,SMB,Defence,China,8,13,Tuesday,1,1,34
+L  99,COO,Startup,Fintech,China,7,8,Wednesday,1,0,31
+L 100,GTM Head,SMB,Fintech,Canada,1,8,Thursday,1,1,13
+L 101,CMO,Scaleup,AI,United Kingdom,8,13,Monday,1,0,34
+L 102,CMO,Scaleup,Defence,India,8,4,Monday,1,1,34
+L 103,COO,Enterprise,Construction,India,10,10,Thursday,2,0,40
+L 104,Marketing Head,Startup,Defence,United States,2,7,Thursday,0,0,16
+L 105,Marketing Head,Corporation,Construction,India,5,3,Wednesday,2,1,25
+L 106,CTO,SMB,Fintech,United States,3,4,Friday,0,0,39
+L 107,Marketing Head,SMB,AI,United States,6,7,Monday,3,1,28
+L 108,CMO,Scaleup,AI,United States,5,15,Wednesday,2,1,25
+L 109,CMO,Corporation,Defence,China,6,13,Thursday,1,1,28
+L 110,Recruiter,Corporation,Fintech,Canada,1,13,Thursday,1,1,13
+L 111,Marketing Head,Startup,Defence,United Kingdom,1,5,Tuesday,2,1,13
+L 112,Recruiter,Enterprise,Construction,United States,5,9,Wednesday,0,0,25
+L 113,Recruiter,Corporation,Healthcare,China,3,3,Monday,1,0,19
+L 114,Recruiter,Startup,Construction,India,5,14,Monday,0,1,25
+L 115,CTO,Scaleup,Fintech,United Kingdom,3,13,Friday,1,0,39
+L 116,Recruiter,Startup,AI,India,9,15,Wednesday,0,0,37
+L 117,Marketing Head,Startup,AI,India,5,3,Thursday,2,1,25
+L 118,CEO,Corporation,Healthcare,China,2,5,Monday,3,0,36
+L 119,CEO,Startup,AI,United States,8,12,Monday,3,1,54
+L 120,CTO,Startup,Healthcare,United Kingdom,9,14,Friday,0,0,57
+L 121,Marketing Head,Corporation,AI,Canada,3,3,Thursday,3,0,19
+L 122,Recruiter,Enterprise,Healthcare,China,5,3,Monday,0,1,25
+L 123,Recruiter,Scaleup,Healthcare,India,4,14,Friday,1,1,22
+L 124,Recruiter,Scaleup,Fintech,Canada,10,11,Thursday,1,1,40
+L 125,CMO,Corporation,Defence,China,5,13,Wednesday,0,0,25
+L 126,CMO,SMB,AI,China,3,13,Friday,3,0,19
+L 127,Marketing Head,Corporation,Fintech,India,4,12,Wednesday,0,0,22
+L 128,CTO,Corporation,Defence,United Kingdom,4,12,Thursday,3,1,42
+L 129,COO,Corporation,Healthcare,United States,4,9,Wednesday,2,0,22
+L 130,CEO,Enterprise,Defence,United States,6,8,Friday,2,0,48
+L 131,CTO,Enterprise,AI,India,10,14,Friday,0,1,60
+L 132,COO,Corporation,Defence,India,4,8,Tuesday,0,1,22
+L 133,GTM Head,SMB,Fintech,China,9,10,Monday,2,1,37
+L 134,CEO,Scaleup,Construction,Canada,2,11,Monday,0,0,36
+L 135,CMO,Enterprise,Healthcare,United Kingdom,6,15,Wednesday,3,0,28
+L 136,COO,Corporation,Construction,China,10,14,Monday,1,0,40
+L 137,CMO,Corporation,AI,India,4,15,Thursday,0,0,22
+L 138,CEO,Scaleup,Healthcare,United States,4,7,Monday,1,1,42
+L 139,Marketing Head,Startup,Healthcare,China,9,9,Wednesday,2,0,37
+L 140,GTM Head,Startup,Fintech,United States,10,14,Thursday,0,0,40
+L 141,COO,Enterprise,AI,United States,5,12,Tuesday,0,1,25
+L 142,CMO,Enterprise,Construction,Canada,1,11,Wednesday,1,0,13
+L 143,Marketing Head,SMB,Construction,United States,2,10,Wednesday,3,1,16
+L 144,CTO,Startup,Defence,India,6,4,Monday,0,1,48
+L 145,GTM Head,Corporation,Construction,India,9,15,Thursday,0,1,37
+L 146,CEO,Corporation,AI,United States,10,14,Tuesday,3,1,60
+L 147,CTO,Corporation,Construction,United Kingdom,2,12,Tuesday,0,0,36
+L 148,Marketing Head,Startup,AI,United States,3,8,Monday,2,1,19
+L 149,Marketing Head,Corporation,Healthcare,China,10,9,Monday,3,1,40
+L 150,CEO,SMB,Defence,United States,8,6,Thursday,0,0,54
+L 151,GTM Head,Scaleup,Construction,United States,7,11,Tuesday,2,1,31
+L 152,CMO,Startup,Fintech,Canada,2,10,Wednesday,3,1,16
+L 153,CMO,Scaleup,AI,Canada,8,4,Friday,2,0,34
+L 154,CTO,SMB,Healthcare,India,9,3,Monday,1,0,57
+L 155,CMO,Startup,Defence,India,8,12,Tuesday,0,1,34
+L 156,GTM Head,SMB,Fintech,United States,4,8,Thursday,2,0,22
+L 157,Marketing Head,Enterprise,Construction,China,10,4,Monday,3,0,40
+L 158,CMO,Corporation,Fintech,China,2,3,Monday,0,1,16
+L 159,Marketing Head,Startup,Fintech,India,3,6,Wednesday,2,0,19
+L 160,COO,Corporation,Healthcare,United States,8,6,Thursday,0,1,34
+L 161,GTM Head,Startup,AI,United States,9,11,Monday,3,1,37
+L 162,CEO,Corporation,Healthcare,Canada,9,12,Friday,3,0,57
+L 163,COO,Enterprise,Defence,United Kingdom,3,5,Monday,2,0,19
+L 164,COO,Scaleup,Healthcare,United States,10,13,Friday,0,1,40
+L 165,Recruiter,SMB,Fintech,India,10,8,Tuesday,3,1,40
+L 166,CEO,Scaleup,Defence,United Kingdom,2,11,Thursday,2,0,36
+L 167,CEO,Scaleup,Healthcare,Canada,6,14,Tuesday,3,1,48
+L 168,CEO,Startup,AI,Canada,1,7,Thursday,0,1,33
+L 169,CMO,SMB,Healthcare,United Kingdom,1,5,Thursday,0,0,13
+L 170,CTO,SMB,AI,Canada,6,3,Thursday,1,0,48
+L 171,CMO,Startup,Healthcare,United States,3,9,Thursday,1,1,19
+L 172,GTM Head,SMB,Construction,India,1,7,Thursday,2,1,13
+L 173,CEO,Scaleup,AI,China,2,3,Monday,2,1,36
+L 174,CMO,SMB,AI,China,8,4,Tuesday,1,0,34
+L 175,Marketing Head,Startup,Defence,United States,5,11,Monday,1,1,25
+L 176,CTO,Scaleup,Fintech,United Kingdom,9,6,Wednesday,0,0,57
+L 177,Recruiter,Corporation,AI,India,7,12,Thursday,0,1,31
+L 178,CEO,Corporation,AI,Canada,5,13,Monday,3,0,45
+L 179,COO,Scaleup,Construction,United Kingdom,8,13,Monday,3,1,34
+L 180,Recruiter,Scaleup,Fintech,United States,2,9,Thursday,3,1,16
+L 181,Marketing Head,Corporation,AI,Canada,2,6,Thursday,0,1,16
+L 182,Recruiter,Enterprise,Construction,Canada,4,13,Monday,0,0,22
+L 183,Recruiter,Corporation,Healthcare,China,1,15,Tuesday,3,0,13
+L 184,CMO,Corporation,Defence,United Kingdom,2,5,Monday,2,1,16
+L 185,Marketing Head,Scaleup,Defence,United States,3,12,Thursday,2,0,19
+L 186,COO,Corporation,AI,United Kingdom,7,14,Wednesday,2,0,31
+L 187,CTO,SMB,Defence,Canada,5,15,Wednesday,3,0,45
+L 188,CEO,Startup,Construction,United Kingdom,3,12,Tuesday,0,0,39
+L 189,CMO,SMB,AI,United States,7,4,Monday,1,1,31
+L 190,Recruiter,SMB,AI,India,2,12,Wednesday,2,1,16
+L 191,CEO,Enterprise,Healthcare,United States,6,13,Monday,1,0,48
+L 192,CMO,Scaleup,Healthcare,United States,10,8,Tuesday,2,0,40
+L 193,CMO,SMB,AI,Canada,9,15,Wednesday,2,0,37
+L 194,COO,Scaleup,Fintech,United Kingdom,8,7,Wednesday,2,0,34
+L 195,CMO,SMB,AI,Canada,1,11,Tuesday,0,1,13
+L 196,Marketing Head,Corporation,Defence,China,4,5,Tuesday,2,0,22
+L 197,Recruiter,Corporation,Defence,Canada,9,13,Monday,1,1,37
+L 198,CTO,Startup,Fintech,United States,9,14,Monday,1,0,57
+L 199,CMO,Scaleup,Fintech,China,3,7,Thursday,2,0,19
+L 200,COO,Corporation,Defence,United Kingdom,1,4,Tuesday,0,0,13
+L 201,COO,Corporation,Defence,Canada,2,4,Monday,3,1,16
+L 202,CEO,Enterprise,Healthcare,India,9,3,Friday,3,1,57
+L 203,CEO,Startup,Fintech,Canada,4,3,Wednesday,3,0,42
+L 204,COO,Scaleup,Fintech,Canada,9,13,Tuesday,2,1,37
+L 205,Recruiter,Enterprise,Construction,China,3,6,Monday,2,1,19
+L 206,CMO,Startup,Fintech,United States,9,4,Friday,1,1,37
+L 207,CEO,Corporation,AI,India,6,12,Monday,0,0,48
+L 208,CMO,Scaleup,Fintech,China,4,11,Monday,1,1,22
+L 209,GTM Head,Scaleup,Fintech,Canada,1,8,Friday,1,1,13
+L 210,GTM Head,Scaleup,Healthcare,United States,5,13,Friday,0,1,25
+L 211,Marketing Head,Corporation,Healthcare,India,8,6,Wednesday,2,1,34
+L 212,CEO,Corporation,AI,Canada,6,11,Tuesday,1,0,48
+L 213,Marketing Head,SMB,Healthcare,United Kingdom,2,10,Thursday,3,1,16
+L 214,CMO,SMB,Construction,United Kingdom,10,10,Friday,1,0,40
+L 215,COO,Enterprise,AI,Canada,1,8,Thursday,2,1,13
+L 216,GTM Head,Scaleup,Defence,United Kingdom,6,3,Friday,1,1,28
+L 217,CMO,Startup,Defence,United States,9,15,Wednesday,3,0,37
+L 218,Marketing Head,Enterprise,AI,United Kingdom,10,11,Friday,1,0,40
+L 219,CEO,Enterprise,Healthcare,United States,10,7,Tuesday,3,0,60
+L 220,COO,Enterprise,Fintech,India,9,12,Wednesday,0,0,37
+L 221,CEO,Startup,AI,United States,5,12,Tuesday,0,0,45
+L 222,Marketing Head,Scaleup,Construction,Canada,1,5,Wednesday,0,1,13
+L 223,Marketing Head,Startup,Defence,United Kingdom,7,12,Tuesday,1,1,31
+L 224,GTM Head,Corporation,Fintech,India,9,7,Friday,2,1,37
+L 225,CTO,Corporation,Healthcare,United States,3,11,Monday,1,1,39
+L 226,CTO,Scaleup,AI,United States,9,13,Tuesday,1,0,57
+L 227,CMO,SMB,Fintech,United States,6,7,Monday,0,1,28
+L 228,CEO,Enterprise,Healthcare,United Kingdom,9,4,Friday,1,0,57
+L 229,GTM Head,Startup,Construction,United States,3,14,Monday,1,1,19
+L 230,Marketing Head,Startup,Healthcare,United Kingdom,8,15,Wednesday,1,0,34
+L 231,GTM Head,Scaleup,Fintech,United Kingdom,5,8,Thursday,3,0,25
+L 232,GTM Head,Corporation,Construction,United States,5,3,Thursday,0,1,25
+L 233,COO,Corporation,Healthcare,United Kingdom,8,10,Thursday,1,0,34
+L 234,Marketing Head,SMB,Construction,India,1,10,Thursday,3,1,13
+L 235,GTM Head,Scaleup,AI,India,5,13,Tuesday,3,1,25
+L 236,GTM Head,Corporation,Defence,India,1,9,Wednesday,2,1,13
+L 237,GTM Head,SMB,AI,China,3,8,Monday,0,1,19
+L 238,Marketing Head,Scaleup,AI,China,9,12,Tuesday,0,1,37
+L 239,CMO,Scaleup,Fintech,India,2,6,Monday,0,1,16
+L 240,CEO,SMB,AI,China,7,3,Friday,1,0,51
+L 241,CTO,Corporation,Healthcare,China,10,14,Monday,1,0,60
+L 242,CTO,Startup,Defence,China,2,15,Monday,1,0,36
+L 243,COO,Corporation,Defence,China,6,11,Friday,2,0,28
+L 244,CTO,Corporation,Defence,China,3,15,Thursday,2,1,39
+L 245,CTO,SMB,Healthcare,United Kingdom,3,9,Wednesday,2,0,39
+L 246,COO,Corporation,Defence,United Kingdom,3,3,Tuesday,2,0,19
+L 247,CEO,Scaleup,AI,India,1,9,Thursday,1,0,33
+L 248,CEO,Corporation,AI,India,8,13,Friday,3,0,54
+L 249,COO,Scaleup,Healthcare,China,4,12,Tuesday,3,0,22
+L 250,COO,SMB,Healthcare,India,9,14,Friday,1,1,37
+L 251,Recruiter,Startup,Construction,China,9,13,Monday,0,1,37
+L 252,CTO,Startup,AI,United Kingdom,8,15,Friday,2,0,54
+L 253,COO,SMB,AI,United Kingdom,4,11,Wednesday,3,0,22
+L 254,GTM Head,SMB,Healthcare,China,3,11,Tuesday,3,1,19
+L 255,Recruiter,Startup,AI,China,9,7,Thursday,0,0,37
+L 256,Marketing Head,Corporation,Defence,India,1,15,Monday,0,0,13
+L 257,CTO,Startup,Healthcare,Canada,3,12,Monday,1,0,39
+L 258,CMO,SMB,Fintech,Canada,6,5,Tuesday,1,0,28
+L 259,CEO,SMB,Healthcare,Canada,2,12,Thursday,3,1,36
+L 260,CEO,Enterprise,AI,India,3,4,Wednesday,2,0,39
+L 261,CTO,Corporation,Healthcare,Canada,6,11,Wednesday,0,0,48
+L 262,Recruiter,Corporation,Construction,China,1,10,Wednesday,1,1,13
+L 263,COO,SMB,AI,Canada,9,9,Wednesday,2,0,37
+L 264,CMO,Corporation,AI,India,6,3,Tuesday,3,0,28
+L 265,CMO,Startup,Defence,Canada,8,15,Wednesday,0,0,34
+L 266,Marketing Head,Enterprise,AI,China,7,15,Wednesday,0,0,31
+L 267,COO,Corporation,Healthcare,India,1,6,Monday,1,0,13
+L 268,COO,Startup,Healthcare,China,6,6,Tuesday,0,0,28
+L 269,Marketing Head,Startup,Defence,Canada,7,9,Tuesday,1,1,31
+L 270,Recruiter,Enterprise,Healthcare,United States,10,13,Wednesday,0,0,40
+L 271,CTO,Startup,Healthcare,China,8,13,Wednesday,1,0,54
+L 272,COO,Corporation,Construction,United Kingdom,2,3,Friday,1,0,16
+L 273,CEO,SMB,AI,India,10,12,Tuesday,1,0,60
+L 274,Marketing Head,Startup,Construction,United Kingdom,9,5,Tuesday,0,1,37
+L 275,COO,Scaleup,Construction,United States,6,15,Wednesday,3,0,28
+L 276,COO,Startup,AI,United States,4,4,Wednesday,1,0,22
+L 277,GTM Head,Scaleup,AI,Canada,5,6,Thursday,2,0,25
+L 278,Marketing Head,Scaleup,Construction,India,7,14,Thursday,2,0,31
+L 279,CTO,Scaleup,Healthcare,United Kingdom,1,7,Tuesday,0,0,33
+L 280,CEO,Enterprise,Defence,Canada,2,9,Friday,0,0,36
+L 281,Marketing Head,Enterprise,Defence,United Kingdom,8,3,Thursday,1,1,34
+L 282,CTO,Startup,Construction,India,1,10,Tuesday,3,1,33
+L 283,CTO,SMB,Fintech,Canada,5,8,Wednesday,1,1,45
+L 284,GTM Head,SMB,Fintech,China,4,13,Wednesday,0,0,22
+L 285,CEO,Enterprise,Defence,China,1,3,Monday,3,1,33
+L 286,CMO,Corporation,Defence,China,3,8,Friday,3,0,19
+L 287,Recruiter,Startup,Construction,China,3,15,Friday,3,0,19
+L 288,GTM Head,SMB,Defence,India,10,11,Wednesday,1,1,40
+L 289,COO,Scaleup,Construction,Canada,6,6,Tuesday,2,0,28
+L 290,Marketing Head,Startup,Construction,United States,7,7,Monday,0,1,31
+L 291,GTM Head,Enterprise,Defence,United States,1,3,Wednesday,1,1,13
+L 292,CTO,Scaleup,Healthcare,United Kingdom,7,15,Thursday,3,0,51
+L 293,CMO,Startup,Fintech,Canada,5,13,Wednesday,1,0,25
+L 294,Marketing Head,Enterprise,Construction,United Kingdom,3,15,Friday,1,1,19
+L 295,CTO,Startup,Defence,China,3,7,Tuesday,2,0,39
+L 296,CMO,Startup,Defence,United Kingdom,9,10,Wednesday,3,0,37
+L 297,Recruiter,SMB,AI,United Kingdom,6,7,Friday,2,1,28
+L 298,COO,SMB,Healthcare,China,2,6,Wednesday,3,0,16
+L 299,Recruiter,Startup,Fintech,China,9,10,Friday,0,1,37
+L 300,CTO,Corporation,Fintech,Canada,6,6,Monday,0,1,48
+L 301,Recruiter,SMB,Construction,India,3,9,Tuesday,2,1,19
+L 302,COO,Corporation,Fintech,India,1,7,Friday,2,0,13
+L 303,COO,Startup,Defence,United Kingdom,7,5,Wednesday,1,0,31
+L 304,CTO,Scaleup,Fintech,Canada,7,6,Thursday,1,0,51
+L 305,COO,SMB,Healthcare,United States,2,9,Tuesday,1,0,16
+L 306,CEO,SMB,Defence,China,8,5,Monday,0,0,54
+L 307,COO,SMB,Healthcare,Canada,3,6,Wednesday,1,0,19
+L 308,CEO,Scaleup,Fintech,India,8,15,Wednesday,1,0,54
+L 309,CEO,SMB,AI,China,8,12,Monday,2,1,54
+L 310,CMO,Scaleup,Healthcare,India,3,4,Tuesday,2,1,19
+L 311,Recruiter,SMB,AI,United Kingdom,3,11,Wednesday,0,1,19
+L 312,CEO,Startup,Construction,China,4,11,Wednesday,0,1,42
+L 313,CEO,SMB,Healthcare,India,8,11,Thursday,3,0,54
+L 314,GTM Head,Corporation,AI,United Kingdom,7,7,Wednesday,0,0,31
+L 315,Marketing Head,Startup,Defence,Canada,9,8,Monday,1,1,37
+L 316,CMO,Startup,Defence,United States,8,7,Tuesday,3,1,34
+L 317,GTM Head,Scaleup,AI,United States,1,10,Friday,3,1,13
+L 318,CMO,Enterprise,AI,United Kingdom,10,7,Monday,1,1,40
+L 319,Marketing Head,Startup,Construction,United States,6,4,Thursday,3,1,28
+L 320,CTO,Scaleup,Healthcare,United Kingdom,1,8,Wednesday,1,0,33
+L 321,Marketing Head,Enterprise,Construction,United States,1,5,Thursday,0,0,13
+L 322,Recruiter,Scaleup,Defence,China,2,13,Thursday,3,0,16
+L 323,CEO,Scaleup,AI,China,4,4,Monday,2,1,42
+L 324,Marketing Head,Corporation,Defence,United Kingdom,2,13,Thursday,2,0,16
+L 325,CTO,Startup,Healthcare,Canada,4,3,Thursday,3,0,42
+L 326,CEO,Scaleup,Construction,Canada,3,5,Friday,3,0,39
+L 327,Marketing Head,Enterprise,Defence,United States,8,6,Friday,2,1,34
+L 328,GTM Head,Scaleup,Healthcare,India,9,14,Tuesday,3,1,37
+L 329,COO,Scaleup,Defence,Canada,9,6,Monday,2,1,37
+L 330,COO,Enterprise,AI,India,7,3,Wednesday,3,0,31
+L 331,CEO,Corporation,Healthcare,India,7,13,Monday,1,0,51
+L 332,CEO,Corporation,AI,United Kingdom,8,11,Wednesday,3,1,54
+L 333,CMO,Corporation,Construction,Canada,10,12,Wednesday,2,1,40
+L 334,Marketing Head,Scaleup,Construction,India,3,12,Thursday,0,1,19
+L 335,Marketing Head,Corporation,Healthcare,United Kingdom,2,13,Tuesday,0,1,16
+L 336,CTO,Corporation,AI,India,5,12,Wednesday,3,0,45
+L 337,GTM Head,Enterprise,AI,China,10,4,Friday,2,0,40
+L 338,CEO,Startup,Healthcare,United Kingdom,6,10,Tuesday,3,0,48
+L 339,Marketing Head,SMB,Defence,China,4,11,Thursday,0,1,22
+L 340,CMO,Scaleup,Construction,China,4,15,Thursday,3,0,22
+L 341,Recruiter,Corporation,AI,Canada,8,14,Friday,2,1,34
+L 342,GTM Head,SMB,Fintech,China,1,7,Thursday,2,1,13
+L 343,CMO,SMB,Healthcare,Canada,5,4,Friday,0,0,25
+L 344,CMO,Scaleup,Healthcare,China,4,4,Thursday,3,0,22
+L 345,CTO,Scaleup,AI,Canada,7,14,Wednesday,2,0,51
+L 346,Marketing Head,Enterprise,Defence,Canada,6,14,Friday,0,0,28
+L 347,Marketing Head,Startup,Defence,China,4,4,Thursday,3,1,22
+L 348,CTO,Startup,Healthcare,United Kingdom,10,8,Monday,0,1,60
+L 349,COO,Startup,Healthcare,Canada,5,12,Friday,0,0,25
+L 350,CMO,SMB,Construction,Canada,8,9,Thursday,3,0,34
+L 351,CMO,Corporation,Fintech,United Kingdom,9,15,Wednesday,0,0,37
+L 352,COO,Corporation,AI,India,3,15,Friday,1,0,19
+L 353,Recruiter,Corporation,Fintech,India,2,9,Friday,0,1,16
+L 354,CTO,SMB,Healthcare,United Kingdom,7,13,Monday,3,1,51
+L 355,CEO,Enterprise,AI,China,8,8,Monday,0,0,54
+L 356,GTM Head,Startup,Construction,China,9,4,Thursday,0,1,37
+L 357,CMO,Startup,AI,India,7,15,Wednesday,3,0,31
+L 358,Recruiter,Scaleup,AI,India,6,5,Monday,3,0,28
+L 359,Marketing Head,Startup,AI,United Kingdom,2,11,Thursday,2,0,16
+L 360,GTM Head,Enterprise,Defence,India,1,5,Wednesday,1,1,13
+L 361,CTO,SMB,Healthcare,United Kingdom,8,4,Wednesday,3,0,54
+L 362,CEO,Enterprise,Fintech,China,6,12,Wednesday,2,0,48
+L 363,Marketing Head,Scaleup,Construction,China,8,4,Friday,0,1,34
+L 364,Recruiter,Enterprise,Construction,India,9,4,Thursday,1,0,37
+L 365,CEO,Scaleup,Defence,India,6,6,Wednesday,0,0,48
+L 366,Recruiter,Startup,Healthcare,United Kingdom,3,15,Monday,2,0,19
+L 367,CTO,SMB,Construction,India,5,13,Tuesday,0,0,45
+L 368,CMO,Corporation,AI,United States,8,5,Wednesday,0,1,34
+L 369,CMO,Startup,Fintech,United States,1,8,Monday,0,1,13
+L 370,GTM Head,Enterprise,Defence,Canada,3,12,Wednesday,2,1,19
+L 371,GTM Head,Enterprise,Defence,India,6,7,Friday,0,1,28
+L 372,CTO,Scaleup,Construction,Canada,7,14,Friday,1,1,51
+L 373,CTO,Startup,Healthcare,China,2,9,Tuesday,2,0,36
+L 374,GTM Head,SMB,AI,India,8,6,Friday,3,1,34
+L 375,CMO,SMB,Construction,India,7,14,Monday,2,1,31
+L 376,CEO,Scaleup,Healthcare,Canada,9,15,Monday,1,0,57
+L 377,CTO,Scaleup,Defence,United Kingdom,6,7,Tuesday,1,1,48
+L 378,CMO,SMB,Construction,China,4,5,Friday,2,0,22
+L 379,CMO,Enterprise,AI,Canada,8,12,Thursday,2,1,34
+L 380,CEO,Startup,Healthcare,Canada,3,15,Wednesday,1,1,39
+L 381,CTO,Scaleup,Healthcare,United Kingdom,9,11,Wednesday,3,0,57
+L 382,Recruiter,Enterprise,Fintech,China,1,8,Monday,2,0,13
+L 383,Marketing Head,Scaleup,Healthcare,China,6,13,Thursday,1,0,28
+L 384,GTM Head,Enterprise,Construction,China,1,3,Friday,1,0,13
+L 385,Recruiter,Corporation,AI,United Kingdom,10,10,Tuesday,3,0,40
+L 386,COO,SMB,AI,Canada,5,10,Tuesday,2,1,25
+L 387,Recruiter,SMB,Fintech,China,3,8,Thursday,0,1,19
+L 388,CTO,Enterprise,Healthcare,United Kingdom,5,13,Monday,1,0,45
+L 389,CMO,Scaleup,Construction,India,3,13,Friday,0,0,19
+L 390,COO,Scaleup,Fintech,United States,3,15,Friday,3,0,19
+L 391,CTO,SMB,Defence,China,3,6,Friday,0,0,39
+L 392,CMO,Startup,AI,United Kingdom,2,14,Thursday,0,0,16
+L 393,Recruiter,Corporation,Fintech,Canada,2,11,Friday,3,0,16
+L 394,CEO,Corporation,Construction,India,7,12,Wednesday,3,0,51
+L 395,GTM Head,Startup,Defence,United States,10,8,Thursday,3,0,40
+L 396,Recruiter,Startup,Fintech,United Kingdom,9,4,Friday,3,0,37
+L 397,Marketing Head,Enterprise,Defence,United Kingdom,10,7,Friday,0,1,40
+L 398,CTO,Corporation,Healthcare,China,1,4,Tuesday,3,0,33
+L 399,Marketing Head,Scaleup,Construction,India,7,8,Wednesday,1,0,31
+L 400,CMO,Scaleup,Fintech,Canada,8,8,Thursday,3,1,34
+L 401,Marketing Head,Startup,AI,United States,9,12,Wednesday,1,0,37
+L 402,Marketing Head,Corporation,Fintech,United Kingdom,6,9,Friday,3,0,28
+L 403,Marketing Head,SMB,Fintech,United Kingdom,1,5,Wednesday,3,0,13
+L 404,Recruiter,Scaleup,Construction,China,4,14,Wednesday,2,1,22
+L 405,CMO,Scaleup,Fintech,United Kingdom,2,9,Wednesday,2,0,16
+L 406,COO,SMB,Construction,Canada,3,5,Tuesday,0,1,19
+L 407,COO,Corporation,AI,United Kingdom,5,6,Tuesday,1,1,25
+L 408,CEO,Startup,Healthcare,China,2,5,Thursday,3,0,36
+L 409,GTM Head,Scaleup,Defence,Canada,1,9,Thursday,1,1,13
+L 410,Marketing Head,Scaleup,Healthcare,United States,10,6,Thursday,0,1,40
+L 411,Marketing Head,Startup,Defence,United Kingdom,4,13,Tuesday,3,0,22
+L 412,CEO,Scaleup,Fintech,United Kingdom,4,3,Tuesday,1,0,42
+L 413,GTM Head,Enterprise,Fintech,United States,10,9,Tuesday,3,1,40
+L 414,Recruiter,Enterprise,Healthcare,United Kingdom,6,4,Monday,3,0,28
+L 415,CMO,Scaleup,Construction,United Kingdom,7,8,Tuesday,1,0,31
+L 416,CTO,Scaleup,Construction,United States,8,4,Friday,3,1,54
+L 417,Recruiter,Enterprise,Fintech,India,7,14,Tuesday,3,1,31
+L 418,CTO,Scaleup,Construction,United States,1,15,Monday,1,0,33
+L 419,COO,Startup,Fintech,India,1,5,Wednesday,0,0,13
+L 420,CEO,Startup,Construction,China,7,8,Friday,1,0,51
+L 421,COO,SMB,Healthcare,Canada,10,12,Thursday,1,0,40
+L 422,CMO,Startup,AI,India,4,14,Wednesday,2,1,22
+L 423,CEO,SMB,Fintech,United Kingdom,5,13,Monday,2,0,45
+L 424,GTM Head,Scaleup,Healthcare,India,5,9,Tuesday,2,1,25
+L 425,CTO,SMB,Construction,United Kingdom,4,15,Friday,2,0,42
+L 426,COO,Scaleup,Construction,Canada,5,7,Monday,1,1,25
+L 427,CTO,Scaleup,Fintech,China,9,14,Thursday,1,0,57
+L 428,Recruiter,Startup,Fintech,Canada,2,11,Tuesday,2,1,16
+L 429,CTO,Scaleup,Healthcare,United States,8,3,Monday,0,1,54
+L 430,CMO,Enterprise,Defence,Canada,9,15,Monday,2,1,37
+L 431,CEO,Corporation,Defence,United Kingdom,6,9,Monday,2,0,48
+L 432,CTO,Scaleup,Fintech,China,10,12,Wednesday,1,0,60
+L 433,CTO,Startup,Healthcare,India,3,13,Thursday,0,1,39
+L 434,COO,Startup,AI,United States,2,4,Wednesday,0,1,16
+L 435,Marketing Head,SMB,AI,United Kingdom,8,10,Friday,0,0,34
+L 436,GTM Head,Scaleup,AI,China,9,3,Thursday,0,1,37
+L 437,Recruiter,Corporation,Defence,Canada,2,9,Tuesday,2,0,16
+L 438,CTO,Startup,Defence,India,8,6,Wednesday,2,0,54
+L 439,CTO,Corporation,AI,United States,9,7,Thursday,1,1,57
+L 440,CMO,Enterprise,Construction,India,2,5,Tuesday,3,1,16
+L 441,CTO,Scaleup,Healthcare,Canada,3,11,Monday,0,0,39
+L 442,CEO,Corporation,Construction,United States,2,7,Monday,3,1,36
+L 443,GTM Head,Corporation,Construction,United States,2,8,Tuesday,3,1,16
+L 444,CEO,Startup,Defence,China,10,9,Monday,1,0,60
+L 445,COO,Corporation,Defence,India,6,13,Friday,0,0,28
+L 446,CMO,Enterprise,Healthcare,United States,1,5,Friday,0,0,13
+L 447,Recruiter,SMB,AI,United Kingdom,4,11,Friday,3,0,22
+L 448,Marketing Head,Enterprise,Defence,United States,3,14,Thursday,1,1,19
+L 449,CTO,Enterprise,Construction,India,3,8,Wednesday,0,1,39
+L 450,COO,Enterprise,Construction,United States,7,5,Thursday,3,0,31
+L 451,Marketing Head,Corporation,Defence,United States,9,10,Thursday,1,1,37
+L 452,COO,Scaleup,Fintech,India,5,12,Wednesday,2,0,25
+L 453,Recruiter,Startup,Fintech,United States,9,7,Wednesday,3,0,37
+L 454,Recruiter,Enterprise,Construction,India,7,7,Thursday,0,1,31
+L 455,Marketing Head,Startup,Defence,China,8,5,Monday,0,1,34
+L 456,CEO,Corporation,Construction,United States,6,11,Thursday,0,1,48
+L 457,CMO,Enterprise,Construction,India,2,12,Tuesday,0,1,16
+L 458,CEO,Enterprise,Healthcare,China,8,11,Thursday,2,1,54
+L 459,COO,SMB,AI,United Kingdom,2,4,Monday,2,1,16
+L 460,COO,Startup,Defence,India,1,10,Wednesday,1,1,13
+L 461,GTM Head,Scaleup,Fintech,Canada,5,15,Monday,2,1,25
+L 462,CEO,Startup,AI,Canada,5,7,Wednesday,2,0,45
+L 463,Recruiter,Scaleup,AI,China,2,10,Friday,0,0,16
+L 464,Recruiter,Enterprise,Healthcare,China,9,6,Wednesday,3,0,37
+L 465,CTO,Enterprise,Construction,India,10,13,Friday,0,1,60
+L 466,GTM Head,Startup,Fintech,Canada,9,7,Thursday,2,1,37
+L 467,CEO,Corporation,Construction,Canada,4,10,Monday,3,0,42
+L 468,GTM Head,Startup,Fintech,United Kingdom,4,9,Monday,1,1,22
+L 469,Marketing Head,Scaleup,AI,United States,5,15,Thursday,3,0,25
+L 470,COO,Startup,Healthcare,United Kingdom,10,5,Thursday,2,1,40
+L 471,CEO,Scaleup,Fintech,United States,2,6,Friday,0,0,36
+L 472,Marketing Head,Startup,AI,India,8,11,Tuesday,3,1,34
+L 473,Marketing Head,Enterprise,Defence,United States,10,12,Thursday,0,0,40
+L 474,Marketing Head,Enterprise,Construction,China,1,14,Wednesday,3,0,13
+L 475,CEO,Startup,Construction,China,2,6,Wednesday,2,0,36
+L 476,GTM Head,Enterprise,Healthcare,United Kingdom,6,4,Monday,1,1,28
+L 477,GTM Head,Scaleup,Defence,India,9,5,Monday,2,1,37
+L 478,Marketing Head,Enterprise,Fintech,China,7,5,Wednesday,1,0,31
+L 479,COO,Enterprise,Healthcare,United States,2,14,Monday,0,0,16
+L 480,GTM Head,Startup,Construction,United States,7,10,Tuesday,3,1,31
+L 481,Recruiter,Scaleup,Fintech,United Kingdom,2,8,Thursday,3,0,16
+L 482,CMO,Corporation,AI,India,2,4,Tuesday,2,1,16
+L 483,CEO,Scaleup,AI,United States,4,3,Thursday,3,0,42
+L 484,Recruiter,Scaleup,Construction,China,4,15,Monday,0,1,22
+L 485,Marketing Head,Enterprise,Fintech,United States,5,10,Wednesday,2,0,25
+L 486,CTO,Enterprise,AI,United Kingdom,10,9,Tuesday,3,1,60
+L 487,Marketing Head,Scaleup,Fintech,Canada,3,7,Monday,3,1,19
+L 488,GTM Head,Scaleup,Construction,United Kingdom,3,4,Thursday,3,0,19
+L 489,COO,Enterprise,Defence,Canada,8,14,Monday,2,0,34
+L 490,Recruiter,SMB,Defence,China,8,13,Tuesday,0,1,34
+L 491,CEO,Startup,Construction,China,2,13,Wednesday,3,0,36
+L 492,GTM Head,Startup,Defence,Canada,7,12,Thursday,3,1,31
+L 493,CEO,Corporation,Defence,China,2,3,Tuesday,2,1,36
+L 494,CMO,Enterprise,Construction,United Kingdom,7,9,Monday,1,0,31
+L 495,Marketing Head,Scaleup,Healthcare,India,3,3,Friday,3,1,19
+L 496,CEO,Startup,Construction,China,5,8,Thursday,3,0,45
+L 497,GTM Head,Corporation,AI,United Kingdom,2,5,Tuesday,1,1,16
+L 498,CEO,Startup,Defence,India,10,14,Monday,1,0,60
+L 499,CMO,SMB,Construction,Canada,3,9,Tuesday,1,0,19
+L 500,CEO,Scaleup,Construction,China,4,14,Monday,3,0,42
+L 501,CTO,Corporation,Fintech,United States,4,9,Friday,1,0,42
+L 502,GTM Head,Corporation,Fintech,India,8,6,Monday,1,1,34
+L 503,CMO,Scaleup,Fintech,United States,4,8,Friday,2,0,22
+L 504,Recruiter,Enterprise,Construction,United States,1,12,Wednesday,1,0,13
+L 505,Recruiter,Scaleup,Healthcare,United States,8,10,Wednesday,0,1,34
+L 506,Recruiter,Enterprise,Fintech,United Kingdom,8,4,Friday,3,0,34
+L 507,GTM Head,Scaleup,Healthcare,China,9,9,Monday,0,0,37
+L 508,Marketing Head,Scaleup,Fintech,China,3,13,Tuesday,3,0,19
+L 509,COO,Enterprise,Construction,India,5,7,Monday,1,0,25
+L 510,CTO,Startup,Construction,Canada,4,15,Tuesday,1,0,42
+L 511,CTO,Enterprise,Construction,India,7,5,Friday,1,0,51
+L 512,Marketing Head,SMB,AI,India,3,11,Thursday,1,0,19
+L 513,CMO,SMB,Healthcare,China,4,13,Friday,3,0,22
+L 514,Marketing Head,Startup,Fintech,United States,9,15,Friday,2,1,37
+L 515,CEO,Corporation,Healthcare,India,6,10,Monday,3,1,48
+L 516,CTO,SMB,AI,India,3,13,Friday,3,0,39
+L 517,GTM Head,Enterprise,Healthcare,United Kingdom,5,4,Monday,2,0,25
+L 518,CMO,Scaleup,Construction,Canada,5,4,Friday,3,0,25
+L 519,CEO,SMB,AI,Canada,2,3,Tuesday,3,1,36
+L 520,CEO,Enterprise,Fintech,Canada,10,3,Thursday,3,0,60
+L 521,CMO,SMB,Construction,United States,3,15,Friday,3,0,19
+L 522,GTM Head,Startup,Defence,United Kingdom,1,7,Tuesday,3,0,13
+L 523,CMO,Startup,Fintech,Canada,2,5,Monday,0,0,16
+L 524,CTO,SMB,Defence,China,1,12,Wednesday,3,0,33
+L 525,GTM Head,Startup,AI,India,8,3,Tuesday,2,1,34
+L 526,CMO,SMB,Defence,China,2,4,Tuesday,1,0,16
+L 527,CTO,Startup,Defence,United Kingdom,10,9,Friday,2,0,60
+L 528,CMO,Enterprise,AI,United States,10,10,Monday,0,1,40
+L 529,CTO,Startup,AI,China,10,3,Friday,2,0,60
+L 530,GTM Head,Startup,Healthcare,China,9,8,Tuesday,1,0,37
+L 531,COO,Startup,Healthcare,United States,4,10,Friday,1,0,22
+L 532,CEO,Startup,Defence,United Kingdom,1,14,Tuesday,3,0,33
+L 533,Marketing Head,Corporation,Construction,United States,2,5,Friday,2,1,16
+L 534,CMO,SMB,Defence,India,1,13,Wednesday,2,0,13
+L 535,CTO,Corporation,Construction,China,10,15,Monday,1,0,60
+L 536,Marketing Head,Corporation,Defence,United States,7,9,Tuesday,1,0,31
+L 537,Recruiter,SMB,Construction,China,7,8,Tuesday,0,1,31
+L 538,GTM Head,Corporation,Construction,United Kingdom,5,9,Wednesday,0,0,25
+L 539,Marketing Head,Startup,AI,United States,3,9,Tuesday,0,1,19
+L 540,CMO,Enterprise,AI,United States,3,14,Tuesday,3,0,19
+L 541,CMO,Scaleup,Healthcare,India,5,4,Wednesday,1,0,25
+L 542,CMO,Startup,Defence,Canada,8,6,Tuesday,1,1,34
+L 543,Marketing Head,Corporation,Defence,United Kingdom,10,5,Tuesday,3,1,40
+L 544,CTO,Corporation,Construction,India,9,3,Thursday,2,0,57
+L 545,CEO,Startup,Fintech,Canada,4,6,Thursday,0,0,42
+L 546,COO,Startup,AI,United Kingdom,7,14,Thursday,3,0,31
+L 547,CTO,Corporation,Fintech,United States,5,9,Wednesday,2,0,45
+L 548,CEO,Scaleup,Construction,China,1,4,Monday,2,0,33
+L 549,CTO,Startup,Defence,China,8,4,Friday,1,0,54
+L 550,GTM Head,Corporation,Construction,China,10,11,Tuesday,1,1,40
+L 551,Recruiter,Corporation,AI,United States,9,7,Tuesday,0,1,37
+L 552,GTM Head,Corporation,Defence,Canada,3,5,Tuesday,2,1,19
+L 553,CMO,SMB,Healthcare,United States,4,7,Thursday,1,0,22
+L 554,Recruiter,Enterprise,Construction,United Kingdom,7,7,Monday,2,0,31
+L 555,GTM Head,SMB,Healthcare,United States,7,13,Monday,0,1,31
+L 556,CMO,SMB,Construction,Canada,8,5,Monday,3,1,34
+L 557,GTM Head,Enterprise,Construction,United Kingdom,3,15,Friday,1,1,19
+L 558,CTO,SMB,Healthcare,India,6,12,Tuesday,3,0,48
+L 559,GTM Head,Enterprise,Fintech,China,1,14,Wednesday,3,0,13
+L 560,CTO,Startup,Fintech,Canada,7,3,Monday,0,0,51
+L 561,COO,SMB,Defence,Canada,9,13,Monday,3,1,37
+L 562,Recruiter,Enterprise,Fintech,United Kingdom,10,13,Monday,3,1,40
+L 563,Marketing Head,Scaleup,Fintech,India,6,12,Tuesday,1,1,28
+L 564,CEO,Corporation,AI,China,8,3,Wednesday,0,0,54
+L 565,GTM Head,Scaleup,Defence,India,8,3,Tuesday,1,1,34
+L 566,CTO,Corporation,Defence,India,7,12,Tuesday,2,1,51
+L 567,CEO,Corporation,AI,United States,7,11,Monday,0,1,51
+L 568,COO,Scaleup,AI,China,2,12,Thursday,0,0,16
+L 569,CTO,Corporation,Construction,United Kingdom,1,4,Tuesday,2,0,33
+L 570,Recruiter,Enterprise,Construction,United States,1,6,Monday,2,1,13
+L 571,Recruiter,Enterprise,Defence,China,3,11,Tuesday,0,0,19
+L 572,Marketing Head,Enterprise,AI,Canada,1,12,Friday,2,1,13
+L 573,COO,Corporation,AI,China,2,13,Tuesday,0,0,16
+L 574,GTM Head,Scaleup,Healthcare,China,3,8,Tuesday,1,0,19
+L 575,Recruiter,Startup,Defence,Canada,8,13,Thursday,0,0,34
+L 576,GTM Head,Corporation,Defence,United States,8,5,Monday,1,1,34
+L 577,COO,Enterprise,Defence,Canada,5,10,Monday,2,0,25
+L 578,CMO,SMB,Healthcare,India,7,15,Thursday,2,0,31
+L 579,CMO,SMB,Defence,Canada,4,3,Wednesday,1,1,22
+L 580,COO,Startup,Construction,India,5,9,Tuesday,3,1,25
+L 581,Recruiter,Corporation,Healthcare,India,6,5,Tuesday,0,0,28
+L 582,CTO,Enterprise,Construction,United States,8,6,Tuesday,2,1,54
+L 583,CEO,Startup,Defence,India,3,8,Tuesday,0,1,39
+L 584,CMO,Corporation,Defence,China,4,6,Friday,1,0,22
+L 585,Recruiter,Corporation,Construction,United Kingdom,3,9,Thursday,1,1,19
+L 586,COO,Corporation,Construction,Canada,5,11,Wednesday,2,1,25
+L 587,COO,Scaleup,Fintech,United Kingdom,7,9,Thursday,2,0,31
+L 588,CEO,Startup,Fintech,India,4,12,Friday,0,1,42
+L 589,COO,SMB,Defence,United States,6,11,Friday,3,1,28
+L 590,CMO,Scaleup,Fintech,China,1,10,Wednesday,2,0,13
+L 591,GTM Head,Enterprise,Construction,China,7,13,Monday,0,0,31
+L 592,Recruiter,Corporation,Construction,India,10,15,Tuesday,0,1,40
+L 593,GTM Head,Scaleup,Healthcare,United Kingdom,8,9,Monday,2,1,34
+L 594,Recruiter,Corporation,AI,India,8,15,Monday,1,1,34
+L 595,Marketing Head,Startup,Defence,Canada,5,10,Monday,2,1,25
+L 596,CEO,SMB,Healthcare,China,5,15,Friday,3,0,45
+L 597,CTO,Startup,Healthcare,United States,6,3,Friday,0,1,48
+L 598,Marketing Head,Startup,Construction,United States,6,7,Wednesday,3,1,28
+L 599,COO,Corporation,Construction,China,3,12,Tuesday,1,1,19
+L 600,GTM Head,Startup,AI,India,7,14,Friday,2,1,31
+L 601,CMO,SMB,AI,United Kingdom,5,15,Thursday,2,0,25
+L 602,GTM Head,Scaleup,Construction,Canada,4,3,Tuesday,1,1,22
+L 603,GTM Head,Enterprise,AI,United Kingdom,3,9,Friday,2,1,19
+L 604,Marketing Head,SMB,Defence,United States,2,3,Friday,2,1,16
+L 605,COO,Scaleup,Healthcare,Canada,7,15,Friday,3,0,31
+L 606,GTM Head,Startup,AI,China,4,3,Friday,1,1,22
+L 607,COO,Startup,Fintech,India,4,10,Thursday,0,0,22
+L 608,GTM Head,Corporation,AI,United States,1,7,Monday,1,1,13
+L 609,CEO,Corporation,Defence,Canada,2,8,Wednesday,1,0,36
+L 610,CEO,Enterprise,Construction,India,2,14,Thursday,1,1,36
+L 611,GTM Head,Corporation,AI,India,4,14,Wednesday,3,0,22
+L 612,CMO,Corporation,AI,Canada,8,4,Thursday,0,0,34
+L 613,Marketing Head,Startup,Construction,China,3,8,Wednesday,2,1,19
+L 614,Recruiter,Startup,Construction,United States,10,13,Thursday,1,0,40
+L 615,COO,Scaleup,AI,India,7,7,Friday,0,0,31
+L 616,CTO,Corporation,Healthcare,India,2,11,Friday,0,1,36
+L 617,Recruiter,Corporation,Construction,China,1,7,Tuesday,0,1,13
+L 618,CTO,Corporation,Defence,China,8,13,Monday,3,0,54
+L 619,Recruiter,Corporation,Fintech,United States,3,7,Friday,3,0,19
+L 620,Marketing Head,Corporation,Fintech,China,4,11,Monday,2,1,22
+L 621,COO,Startup,Defence,China,5,12,Wednesday,2,0,25
+L 622,CMO,SMB,Construction,Canada,8,9,Tuesday,2,1,34
+L 623,GTM Head,SMB,AI,United States,6,7,Thursday,1,1,28
+L 624,CMO,Startup,Fintech,United Kingdom,6,9,Wednesday,2,0,28
+L 625,CEO,Corporation,Fintech,Canada,8,15,Friday,1,1,54
+L 626,CEO,SMB,Healthcare,China,6,15,Tuesday,3,0,48
+L 627,CEO,Enterprise,AI,Canada,8,8,Tuesday,1,0,54
+L 628,CMO,Startup,Defence,Canada,9,9,Friday,1,1,37
+L 629,GTM Head,Scaleup,AI,India,6,4,Tuesday,2,1,28
+L 630,GTM Head,Startup,Fintech,Canada,2,3,Thursday,1,0,16
+L 631,CMO,Startup,Healthcare,China,1,3,Tuesday,0,0,13
+L 632,GTM Head,Corporation,AI,United States,1,14,Thursday,0,1,13
+L 633,COO,Corporation,AI,China,1,13,Wednesday,0,0,13
+L 634,CEO,Corporation,Fintech,Canada,2,9,Friday,2,1,36
+L 635,COO,SMB,Healthcare,India,2,6,Monday,1,1,16
+L 636,CMO,Corporation,Defence,China,7,7,Monday,1,0,31
+L 637,Recruiter,SMB,Fintech,India,1,6,Friday,3,1,13
+L 638,CEO,SMB,Construction,United States,6,4,Thursday,1,1,48
+L 639,CEO,Scaleup,Defence,China,8,14,Tuesday,3,1,54
+L 640,CTO,Enterprise,Fintech,China,9,12,Wednesday,1,1,57
+L 641,COO,Enterprise,AI,Canada,10,5,Monday,2,1,40
+L 642,Recruiter,Enterprise,AI,United States,5,4,Wednesday,2,1,25
+L 643,GTM Head,Startup,Fintech,Canada,5,9,Thursday,2,1,25
+L 644,CTO,SMB,Fintech,Canada,9,15,Wednesday,3,1,57
+L 645,CEO,Startup,Fintech,United States,5,9,Wednesday,1,0,45
+L 646,CTO,Corporation,Healthcare,United Kingdom,3,15,Friday,3,0,39
+L 647,GTM Head,Corporation,Fintech,United States,1,8,Friday,0,0,13
+L 648,GTM Head,Startup,AI,India,7,7,Monday,1,1,31
+L 649,COO,Enterprise,Healthcare,China,10,13,Wednesday,2,0,40
+L 650,CMO,Enterprise,Defence,India,2,4,Friday,3,1,16
+L 651,Recruiter,Scaleup,Fintech,India,3,11,Monday,1,1,19
+L 652,COO,SMB,Defence,China,5,7,Friday,0,0,25
+L 653,GTM Head,Startup,Healthcare,United Kingdom,5,12,Monday,2,0,25
+L 654,COO,Corporation,AI,United Kingdom,6,3,Tuesday,2,0,28
+L 655,Recruiter,SMB,Fintech,China,7,6,Tuesday,1,1,31
+L 656,Recruiter,Startup,Fintech,China,9,3,Monday,1,1,37
+L 657,COO,SMB,Healthcare,China,1,15,Tuesday,2,0,13
+L 658,CEO,Enterprise,Healthcare,India,1,11,Wednesday,2,0,33
+L 659,Recruiter,Startup,Defence,Canada,7,5,Monday,2,1,31
+L 660,Marketing Head,SMB,AI,Canada,3,6,Wednesday,1,1,19
+L 661,Recruiter,Startup,Fintech,China,5,13,Thursday,2,0,25
+L 662,COO,Enterprise,AI,United States,9,13,Monday,3,1,37
+L 663,GTM Head,Enterprise,Construction,Canada,3,7,Thursday,0,1,19
+L 664,GTM Head,Corporation,Construction,United States,9,5,Thursday,0,1,37
+L 665,CMO,Startup,Defence,United Kingdom,7,10,Monday,3,1,31
+L 666,COO,Scaleup,Defence,India,3,11,Friday,2,1,19
+L 667,Recruiter,Corporation,Defence,India,10,13,Tuesday,3,1,40
+L 668,Recruiter,Enterprise,Defence,China,1,4,Friday,1,1,13
+L 669,GTM Head,Corporation,Healthcare,India,1,4,Monday,0,1,13
+L 670,CMO,Corporation,Healthcare,United States,6,3,Thursday,2,1,28
+L 671,CMO,Enterprise,Defence,Canada,9,8,Thursday,1,0,37
+L 672,GTM Head,SMB,Construction,India,5,12,Tuesday,2,1,25
+L 673,Marketing Head,Startup,AI,United States,6,8,Wednesday,3,1,28
+L 674,GTM Head,SMB,Construction,United States,10,5,Tuesday,3,1,40
+L 675,CTO,Startup,AI,Canada,5,15,Tuesday,1,0,45
+L 676,CMO,Enterprise,Fintech,China,9,12,Tuesday,2,1,37
+L 677,CEO,Enterprise,Defence,India,4,13,Tuesday,1,1,42
+L 678,Recruiter,Startup,Fintech,United Kingdom,2,5,Wednesday,1,0,16
+L 679,CMO,Scaleup,Healthcare,China,9,8,Thursday,0,0,37
+L 680,CTO,Enterprise,Defence,China,9,8,Wednesday,2,0,57
+L 681,CTO,Corporation,Defence,United Kingdom,9,14,Wednesday,0,0,57
+L 682,CMO,Enterprise,Construction,India,8,9,Wednesday,3,1,34
+L 683,COO,Corporation,Healthcare,China,3,11,Thursday,3,0,19
+L 684,COO,Enterprise,Defence,China,8,7,Thursday,1,0,34
+L 685,Recruiter,SMB,Healthcare,United Kingdom,4,12,Friday,0,0,22
+L 686,Marketing Head,Startup,AI,China,2,9,Wednesday,0,0,16
+L 687,CTO,Startup,Healthcare,India,1,5,Monday,2,1,33
+L 688,CMO,Enterprise,AI,Canada,10,14,Thursday,3,0,40
+L 689,CMO,SMB,Construction,China,7,11,Tuesday,0,1,31
+L 690,CEO,SMB,AI,United Kingdom,10,3,Thursday,2,0,60
+L 691,CTO,Startup,Fintech,India,5,9,Friday,0,0,45
+L 692,CTO,Startup,Construction,Canada,3,4,Monday,2,0,39
+L 693,GTM Head,Corporation,Construction,United States,8,4,Monday,1,1,34
+L 694,CMO,Corporation,Defence,United Kingdom,10,12,Friday,3,1,40
+L 695,COO,Scaleup,Fintech,India,3,8,Thursday,3,0,19
+L 696,CTO,Startup,Construction,China,2,3,Thursday,0,0,36
+L 697,CMO,Corporation,Construction,India,1,11,Friday,1,0,13
+L 698,GTM Head,Enterprise,Construction,India,5,7,Friday,2,1,25
+L 699,GTM Head,Enterprise,Construction,China,5,7,Monday,0,1,25
+L 700,Marketing Head,SMB,Fintech,Canada,4,14,Thursday,3,1,22
+L 701,GTM Head,SMB,Fintech,Canada,1,15,Friday,1,1,13
+L 702,CEO,Enterprise,Construction,China,5,3,Wednesday,2,0,45
+L 703,GTM Head,Startup,Healthcare,India,1,15,Monday,1,1,13
+L 704,Marketing Head,Corporation,Construction,India,8,8,Monday,2,1,34
+L 705,CMO,Startup,AI,United States,2,12,Wednesday,0,0,16
+L 706,CEO,Corporation,Fintech,India,10,7,Wednesday,0,1,60
+L 707,COO,Startup,Defence,China,4,5,Thursday,1,0,22
+L 708,GTM Head,Corporation,Fintech,United States,10,13,Wednesday,0,1,40
+L 709,GTM Head,Enterprise,Healthcare,Canada,1,5,Friday,2,0,13
+L 710,Recruiter,Corporation,Fintech,United Kingdom,10,6,Tuesday,0,0,40
+L 711,CEO,Startup,Defence,Canada,2,9,Wednesday,3,0,36
+L 712,CMO,Corporation,Defence,Canada,1,8,Wednesday,3,0,13
+L 713,CMO,Enterprise,Defence,Canada,3,4,Thursday,2,0,19
+L 714,GTM Head,Corporation,Defence,India,10,13,Wednesday,2,1,40
+L 715,Recruiter,SMB,Construction,United Kingdom,8,7,Friday,3,0,34
+L 716,Marketing Head,Scaleup,Construction,China,9,4,Tuesday,2,0,37
+L 717,CMO,SMB,Fintech,China,5,9,Friday,0,0,25
+L 718,COO,Corporation,Defence,United Kingdom,2,5,Thursday,3,0,16
+L 719,CMO,Scaleup,Defence,India,4,5,Friday,1,0,22
+L 720,CEO,Scaleup,AI,United States,8,10,Friday,0,0,54
+L 721,Recruiter,SMB,AI,United States,10,11,Monday,1,1,40
+L 722,Marketing Head,Enterprise,Defence,Canada,9,8,Friday,0,1,37
+L 723,Recruiter,SMB,Fintech,China,9,7,Wednesday,3,0,37
+L 724,CEO,Enterprise,Fintech,China,2,6,Wednesday,2,0,36
+L 725,COO,Scaleup,Fintech,Canada,1,7,Wednesday,1,0,13
+L 726,CEO,SMB,Construction,China,5,10,Thursday,1,0,45
+L 727,CMO,Enterprise,AI,Canada,6,12,Thursday,0,0,28
+L 728,GTM Head,Corporation,Construction,United Kingdom,4,8,Wednesday,3,1,22
+L 729,CEO,Startup,AI,China,1,14,Friday,0,0,33
+L 730,Marketing Head,SMB,Construction,United Kingdom,8,13,Friday,3,1,34
+L 731,CMO,SMB,AI,India,3,4,Wednesday,2,0,19
+L 732,CTO,Scaleup,Healthcare,United Kingdom,1,13,Friday,1,0,33
+L 733,CEO,SMB,AI,Canada,2,4,Wednesday,3,0,36
+L 734,COO,Scaleup,Construction,China,4,10,Tuesday,0,0,22
+L 735,COO,Enterprise,Construction,United States,7,8,Wednesday,1,0,31
+L 736,CMO,SMB,AI,United States,2,8,Friday,0,0,16
+L 737,CEO,Startup,Construction,India,1,14,Wednesday,2,0,33
+L 738,CMO,SMB,AI,United Kingdom,9,8,Thursday,3,0,37
+L 739,CEO,SMB,Fintech,United States,8,13,Thursday,0,1,54
+L 740,GTM Head,Startup,Healthcare,Canada,7,13,Wednesday,3,1,31
+L 741,Recruiter,Scaleup,Defence,United States,2,6,Thursday,0,1,16
+L 742,COO,Scaleup,Defence,India,5,7,Wednesday,1,0,25
+L 743,Recruiter,Scaleup,Fintech,China,3,13,Wednesday,2,0,19
+L 744,CMO,Corporation,Construction,India,9,13,Thursday,0,1,37
+L 745,CMO,Corporation,Fintech,China,7,14,Friday,0,0,31
+L 746,GTM Head,Corporation,Construction,Canada,9,6,Thursday,0,1,37
+L 747,GTM Head,Enterprise,Healthcare,India,4,3,Friday,0,1,22
+L 748,Recruiter,Enterprise,Defence,India,10,6,Monday,3,1,40
+L 749,CEO,Scaleup,AI,China,10,8,Friday,1,0,60
+L 750,COO,Enterprise,Construction,China,8,7,Friday,0,1,34
+L 751,CMO,Scaleup,Construction,United Kingdom,1,15,Wednesday,2,0,13
+L 752,CTO,Scaleup,Defence,China,4,3,Monday,1,0,42
+L 753,GTM Head,Enterprise,Defence,United Kingdom,9,14,Monday,3,1,37
+L 754,COO,SMB,Defence,China,1,12,Tuesday,0,1,13
+L 755,GTM Head,Corporation,Construction,India,4,15,Monday,2,1,22
+L 756,CMO,SMB,AI,China,1,15,Monday,2,0,13
+L 757,GTM Head,SMB,Fintech,China,10,7,Monday,1,1,40
+L 758,GTM Head,Corporation,Defence,India,9,15,Thursday,3,0,37
+L 759,CTO,Corporation,Healthcare,India,6,5,Monday,0,0,48
+L 760,CMO,SMB,Healthcare,Canada,3,9,Friday,0,1,19
+L 761,Recruiter,Corporation,Fintech,India,10,8,Thursday,0,1,40
+L 762,COO,SMB,Defence,India,4,6,Monday,1,1,22
+L 763,Recruiter,Enterprise,Healthcare,United Kingdom,4,13,Tuesday,2,0,22
+L 764,CTO,Startup,Construction,United States,10,3,Tuesday,2,1,60
+L 765,Marketing Head,SMB,Defence,United Kingdom,6,13,Wednesday,1,0,28
+L 766,COO,Startup,Healthcare,China,10,8,Wednesday,0,0,40
+L 767,CEO,Scaleup,Fintech,India,10,3,Wednesday,0,0,60
+L 768,CEO,SMB,Defence,India,5,10,Tuesday,2,1,45
+L 769,CEO,Scaleup,Healthcare,United States,2,12,Friday,0,0,36
+L 770,COO,Corporation,Construction,China,7,10,Friday,1,0,31
+L 771,CMO,Scaleup,AI,Canada,2,13,Wednesday,0,0,16
+L 772,CTO,Scaleup,AI,China,10,12,Tuesday,0,1,60
+L 773,CMO,Startup,AI,India,1,9,Thursday,1,0,13
+L 774,CEO,SMB,AI,China,4,4,Friday,3,0,42
+L 775,Marketing Head,Startup,Fintech,United Kingdom,5,10,Thursday,3,1,25
+L 776,COO,Corporation,Fintech,China,8,10,Wednesday,1,1,34
+L 777,Marketing Head,Startup,Defence,Canada,4,15,Friday,2,0,22
+L 778,Recruiter,Scaleup,Healthcare,China,9,11,Monday,1,1,37
+L 779,GTM Head,Scaleup,AI,United States,5,10,Friday,2,0,25
+L 780,COO,Corporation,Healthcare,United States,7,14,Tuesday,1,0,31
+L 781,Marketing Head,Corporation,Fintech,India,3,5,Tuesday,1,1,19
+L 782,CTO,Corporation,Fintech,United Kingdom,4,3,Monday,1,1,42
+L 783,GTM Head,Scaleup,Healthcare,United Kingdom,9,15,Thursday,3,1,37
+L 784,COO,SMB,Fintech,Canada,5,9,Monday,3,1,25
+L 785,Marketing Head,Corporation,Healthcare,United Kingdom,4,4,Monday,1,0,22
+L 786,CTO,Scaleup,AI,China,4,12,Monday,2,0,42
+L 787,Recruiter,Enterprise,Defence,Canada,9,13,Tuesday,2,1,37
+L 788,COO,SMB,Fintech,China,1,5,Monday,0,0,13
+L 789,CMO,Startup,Healthcare,China,1,6,Tuesday,0,0,13
+L 790,Recruiter,Enterprise,Construction,Canada,8,4,Friday,3,1,34
+L 791,CMO,Enterprise,Defence,Canada,6,7,Tuesday,1,0,28
+L 792,Marketing Head,Enterprise,Defence,United Kingdom,8,3,Friday,1,1,34
+L 793,GTM Head,Startup,Fintech,United Kingdom,3,6,Monday,1,0,19
+L 794,GTM Head,Scaleup,Construction,United States,9,13,Monday,3,1,37
+L 795,Marketing Head,Enterprise,Healthcare,United States,10,7,Friday,2,0,40
+L 796,Marketing Head,Startup,AI,China,4,4,Wednesday,3,0,22
+L 797,CEO,Startup,AI,China,4,13,Thursday,0,0,42
+L 798,Marketing Head,Corporation,AI,United States,6,7,Tuesday,1,1,28
+L 799,CTO,Startup,Construction,India,9,4,Monday,3,0,57
+L 800,GTM Head,SMB,Fintech,India,6,15,Monday,0,1,28
+L 801,Recruiter,Enterprise,AI,United States,9,15,Tuesday,1,1,37
+L 802,CTO,Scaleup,Healthcare,India,10,4,Monday,3,1,60
+L 803,CEO,SMB,Construction,United Kingdom,10,4,Friday,3,0,60
+L 804,CMO,Startup,AI,United Kingdom,4,7,Tuesday,3,0,22
+L 805,Marketing Head,Enterprise,Fintech,United States,8,11,Wednesday,2,1,34
+L 806,CMO,Enterprise,AI,United Kingdom,9,8,Friday,0,0,37
+L 807,Marketing Head,Enterprise,Healthcare,China,9,6,Friday,3,0,37
+L 808,CEO,SMB,Construction,United States,1,10,Friday,3,0,33
+L 809,CMO,Startup,Fintech,United States,7,6,Friday,3,1,31
+L 810,Recruiter,Enterprise,Construction,United States,4,5,Wednesday,1,0,22
+L 811,COO,Corporation,Construction,United Kingdom,6,14,Friday,2,0,28
+L 812,CMO,Enterprise,AI,India,5,11,Monday,0,1,25
+L 813,CEO,Enterprise,AI,United States,8,9,Monday,3,0,54
+L 814,GTM Head,Scaleup,Defence,United States,8,10,Thursday,3,0,34
+L 815,CTO,Corporation,Defence,Canada,8,5,Friday,1,0,54
+L 816,Marketing Head,Enterprise,Defence,United States,10,12,Friday,0,1,40
+L 817,Recruiter,SMB,AI,Canada,10,6,Thursday,1,1,40
+L 818,Recruiter,SMB,Defence,China,2,8,Wednesday,2,1,16
+L 819,Recruiter,Startup,Fintech,United States,2,8,Friday,1,1,16
+L 820,CTO,SMB,Healthcare,India,8,3,Thursday,0,0,54
+L 821,CEO,Enterprise,Construction,India,4,7,Tuesday,2,1,42
+L 822,CTO,Startup,Construction,India,7,3,Wednesday,0,0,51
+L 823,CEO,Corporation,AI,China,8,11,Tuesday,2,1,54
+L 824,CEO,SMB,Healthcare,United States,5,14,Monday,1,0,45
+L 825,CTO,Scaleup,Healthcare,India,1,15,Tuesday,3,0,33
+L 826,CTO,Corporation,Construction,United Kingdom,3,7,Thursday,0,0,39
+L 827,CTO,Corporation,Healthcare,United Kingdom,4,6,Thursday,2,0,42
+L 828,Marketing Head,SMB,AI,United Kingdom,1,5,Wednesday,2,0,13
+L 829,COO,Corporation,Healthcare,China,7,13,Thursday,1,0,31
+L 830,CMO,Corporation,Construction,United Kingdom,7,3,Wednesday,0,0,31
+L 831,CTO,SMB,Fintech,United States,10,8,Friday,0,0,60
+L 832,Recruiter,Enterprise,Healthcare,United Kingdom,1,10,Tuesday,1,1,13
+L 833,Marketing Head,Startup,Fintech,United States,10,11,Monday,3,1,40
+L 834,CMO,Scaleup,Defence,China,9,12,Wednesday,2,0,37
+L 835,CTO,SMB,Construction,India,2,14,Thursday,3,0,36
+L 836,CEO,Scaleup,Defence,India,4,3,Wednesday,3,0,42
+L 837,Marketing Head,Enterprise,Defence,United States,6,5,Monday,3,1,28
+L 838,Marketing Head,Enterprise,Healthcare,United Kingdom,9,5,Tuesday,2,1,37
+L 839,Marketing Head,Scaleup,Construction,United States,7,4,Wednesday,0,0,31
+L 840,GTM Head,SMB,Defence,United Kingdom,9,10,Monday,3,1,37
+L 841,Recruiter,Enterprise,Fintech,India,10,14,Friday,1,1,40
+L 842,CMO,SMB,Defence,United States,4,5,Thursday,3,1,22
+L 843,Marketing Head,Corporation,Defence,China,9,8,Wednesday,2,0,37
+L 844,Recruiter,Enterprise,Healthcare,China,5,6,Friday,2,1,25
+L 845,CEO,Scaleup,Fintech,United Kingdom,2,13,Wednesday,0,0,36
+L 846,COO,Enterprise,AI,Canada,5,13,Tuesday,1,1,25
+L 847,Marketing Head,Corporation,Construction,United States,5,12,Wednesday,0,0,25
+L 848,GTM Head,SMB,Healthcare,India,5,9,Wednesday,1,1,25
+L 849,GTM Head,Startup,AI,Canada,4,11,Thursday,1,1,22
+L 850,Recruiter,Corporation,Construction,Canada,1,12,Wednesday,2,1,13
+L 851,GTM Head,Corporation,AI,Canada,2,11,Tuesday,2,1,16
+L 852,CEO,Corporation,AI,United Kingdom,1,14,Wednesday,3,0,33
+L 853,CTO,Startup,Fintech,China,10,8,Wednesday,1,0,60
+L 854,CTO,Scaleup,Fintech,United States,4,8,Tuesday,0,1,42
+L 855,CEO,Startup,Construction,United States,7,13,Thursday,3,1,51
+L 856,Marketing Head,Startup,Construction,China,3,5,Monday,1,1,19
+L 857,COO,SMB,AI,Canada,4,6,Thursday,3,0,22
+L 858,COO,SMB,Defence,India,4,14,Monday,0,0,22
+L 859,CEO,Scaleup,Construction,India,5,14,Friday,2,1,45
+L 860,GTM Head,Enterprise,Defence,Canada,7,7,Tuesday,1,1,31
+L 861,COO,SMB,Construction,United Kingdom,8,13,Tuesday,1,0,34
+L 862,Marketing Head,Scaleup,AI,Canada,9,5,Wednesday,3,1,37
+L 863,CTO,Scaleup,Fintech,United Kingdom,3,13,Friday,2,0,39
+L 864,GTM Head,Scaleup,Healthcare,China,7,7,Friday,1,0,31
+L 865,Marketing Head,Enterprise,Healthcare,Canada,3,5,Thursday,1,1,19
+L 866,Recruiter,Corporation,Defence,United States,9,9,Thursday,1,1,37
+L 867,CTO,Corporation,AI,India,3,10,Wednesday,1,1,39
+L 868,COO,Scaleup,AI,China,10,13,Wednesday,1,0,40
+L 869,COO,Startup,Healthcare,United States,10,14,Monday,2,0,40
+L 870,GTM Head,Scaleup,Healthcare,Canada,3,12,Thursday,1,1,19
+L 871,CTO,Startup,AI,United Kingdom,6,11,Wednesday,0,0,48
+L 872,Marketing Head,Scaleup,Construction,United Kingdom,5,12,Friday,1,0,25
+L 873,GTM Head,SMB,Healthcare,Canada,3,14,Friday,2,1,19
+L 874,GTM Head,Startup,Defence,India,3,12,Wednesday,1,1,19
+L 875,GTM Head,Corporation,AI,United Kingdom,10,5,Tuesday,3,1,40
+L 876,Marketing Head,SMB,Fintech,India,9,12,Wednesday,2,1,37
+L 877,Marketing Head,Enterprise,Defence,India,9,9,Thursday,1,1,37
+L 878,COO,Enterprise,Defence,India,7,12,Wednesday,0,1,31
+L 879,CMO,Scaleup,AI,India,7,5,Monday,0,1,31
+L 880,CTO,Enterprise,Defence,United States,4,9,Monday,1,1,42
+L 881,CTO,Startup,AI,United States,9,6,Thursday,0,0,57
+L 882,Recruiter,Corporation,Construction,United Kingdom,9,11,Thursday,3,1,37
+L 883,CTO,SMB,AI,India,1,3,Thursday,1,1,33
+L 884,COO,SMB,Defence,United States,1,13,Thursday,2,0,13
+L 885,Marketing Head,Startup,Fintech,India,3,5,Monday,0,1,19
+L 886,CMO,Scaleup,Fintech,China,4,8,Wednesday,3,0,22
+L 887,Marketing Head,Corporation,Construction,United States,7,15,Thursday,3,1,31
+L 888,CEO,Corporation,Fintech,India,9,15,Thursday,1,1,57
+L 889,CEO,Startup,Defence,United Kingdom,5,8,Thursday,2,0,45
+L 890,CEO,SMB,Defence,United States,5,7,Tuesday,3,0,45
+L 891,Marketing Head,Startup,Healthcare,Canada,5,5,Thursday,0,0,25
+L 892,CMO,Enterprise,AI,India,3,9,Wednesday,0,0,19
+L 893,CEO,Scaleup,Healthcare,United States,9,12,Wednesday,3,1,57
+L 894,CEO,Scaleup,Defence,India,7,4,Monday,3,0,51
+L 895,GTM Head,Enterprise,Fintech,China,5,11,Tuesday,2,1,25
+L 896,COO,Scaleup,Healthcare,United Kingdom,4,13,Wednesday,3,0,22
+L 897,Recruiter,SMB,AI,Canada,1,7,Wednesday,3,0,13
+L 898,GTM Head,SMB,Defence,China,7,15,Monday,0,1,31
+L 899,CTO,SMB,Construction,United Kingdom,8,5,Wednesday,0,1,54
+L 900,GTM Head,Scaleup,Defence,India,3,3,Thursday,3,1,19
+L 901,GTM Head,Corporation,Healthcare,China,1,3,Tuesday,1,1,13
+L 902,Recruiter,Enterprise,Healthcare,United States,6,13,Wednesday,0,1,28
+L 903,CMO,Scaleup,Construction,Canada,10,13,Tuesday,1,1,40
+L 904,COO,Corporation,Defence,United States,7,14,Tuesday,2,1,31
+L 905,CEO,SMB,Fintech,Canada,3,4,Thursday,2,0,39
+L 906,CTO,Corporation,Healthcare,India,4,15,Monday,3,0,42
+L 907,CTO,Startup,Defence,United States,4,12,Friday,2,0,42
+L 908,Recruiter,Scaleup,AI,United States,7,12,Tuesday,2,1,31
+L 909,CTO,SMB,Healthcare,India,4,14,Tuesday,2,1,42
+L 910,Marketing Head,Scaleup,Construction,United States,8,14,Friday,0,1,34
+L 911,GTM Head,Scaleup,Defence,India,4,8,Wednesday,2,1,22
+L 912,COO,Scaleup,Construction,United States,7,3,Thursday,1,0,31
+L 913,GTM Head,Scaleup,Defence,United Kingdom,4,15,Thursday,1,0,22
+L 914,Recruiter,Startup,Defence,India,3,11,Friday,3,1,19
+L 915,CTO,Enterprise,Healthcare,United States,6,4,Wednesday,3,0,48
+L 916,CMO,Corporation,Construction,United Kingdom,10,15,Friday,2,0,40
+L 917,COO,Startup,Construction,China,3,7,Friday,2,0,19
+L 918,Recruiter,Corporation,Construction,India,7,14,Wednesday,2,0,31
+L 919,CMO,Enterprise,Construction,United States,1,4,Tuesday,2,1,13
+L 920,CMO,Scaleup,Fintech,United Kingdom,4,3,Tuesday,1,0,22
+L 921,GTM Head,Enterprise,Construction,United Kingdom,10,12,Thursday,1,1,40
+L 922,Recruiter,Corporation,Fintech,United Kingdom,6,12,Thursday,0,0,28
+L 923,CTO,SMB,Healthcare,United States,5,8,Wednesday,0,0,45
+L 924,Marketing Head,Corporation,Healthcare,United States,6,15,Wednesday,3,1,28
+L 925,CMO,Scaleup,Fintech,United States,1,15,Thursday,0,1,13
+L 926,CEO,Startup,Construction,United Kingdom,2,4,Tuesday,0,1,36
+L 927,COO,Scaleup,Construction,China,3,3,Friday,0,0,19
+L 928,CMO,Scaleup,Defence,India,1,14,Wednesday,3,0,13
+L 929,CMO,SMB,AI,United States,2,4,Monday,3,1,16
+L 930,COO,SMB,AI,United Kingdom,3,8,Wednesday,3,0,19
+L 931,COO,Enterprise,AI,India,7,8,Monday,2,0,31
+L 932,Recruiter,Corporation,Fintech,United Kingdom,3,13,Thursday,1,0,19
+L 933,CMO,SMB,Healthcare,United Kingdom,3,3,Tuesday,3,0,19
+L 934,CEO,Corporation,Healthcare,China,6,13,Tuesday,0,1,48
+L 935,GTM Head,Scaleup,Construction,United States,3,11,Thursday,3,1,19
+L 936,CTO,Scaleup,AI,China,5,9,Thursday,0,1,45
+L 937,Marketing Head,Corporation,Fintech,United Kingdom,1,4,Friday,2,0,13
+L 938,COO,SMB,Defence,China,1,8,Wednesday,3,0,13
+L 939,Recruiter,Scaleup,Fintech,Canada,9,13,Tuesday,3,1,37
+L 940,CMO,Startup,Construction,India,9,11,Wednesday,3,1,37
+L 941,GTM Head,Scaleup,Fintech,Canada,8,4,Tuesday,3,1,34
+L 942,COO,Startup,Healthcare,Canada,1,11,Thursday,1,0,13
+L 943,CTO,Corporation,Healthcare,United Kingdom,8,14,Monday,3,0,54
+L 944,Marketing Head,Enterprise,Construction,India,9,3,Thursday,2,1,37
+L 945,CEO,Startup,AI,Canada,7,3,Friday,2,1,51
+L 946,COO,Corporation,Healthcare,United States,6,8,Thursday,1,1,28
+L 947,CTO,Enterprise,Defence,United Kingdom,3,3,Tuesday,1,0,39
+L 948,CMO,Corporation,Construction,India,8,5,Monday,2,0,34
+L 949,CEO,Corporation,Fintech,United Kingdom,10,15,Friday,2,0,60
+L 950,COO,SMB,Healthcare,Canada,5,8,Monday,0,0,25
+L 951,Marketing Head,Corporation,Construction,United States,5,5,Wednesday,0,0,25
+L 952,Recruiter,Enterprise,Healthcare,United Kingdom,7,10,Wednesday,0,1,31
+L 953,GTM Head,Startup,AI,Canada,2,3,Friday,1,0,16
+L 954,CEO,Corporation,Fintech,Canada,8,10,Monday,2,1,54
+L 955,CEO,Scaleup,Construction,Canada,4,9,Tuesday,1,1,42
+L 956,CMO,Corporation,Fintech,Canada,1,6,Wednesday,0,0,13
+L 957,GTM Head,Enterprise,AI,United Kingdom,7,10,Tuesday,0,1,31
+L 958,GTM Head,Corporation,Fintech,United Kingdom,6,7,Friday,0,1,28
+L 959,CMO,Enterprise,Construction,Canada,8,6,Monday,1,0,34
+L 960,GTM Head,SMB,Fintech,India,6,11,Monday,0,1,28
+L 961,CMO,Startup,Construction,Canada,7,9,Wednesday,0,0,31
+L 962,CEO,Corporation,AI,United States,1,7,Friday,2,1,33
+L 963,Marketing Head,Corporation,Defence,United Kingdom,7,12,Thursday,1,1,31
+L 964,GTM Head,SMB,Defence,India,4,5,Thursday,3,1,22
+L 965,Marketing Head,SMB,Defence,United Kingdom,5,4,Tuesday,3,1,25
+L 966,GTM Head,Corporation,Defence,India,1,8,Wednesday,3,0,13
+L 967,CTO,Corporation,AI,Canada,8,13,Wednesday,1,1,54
+L 968,CTO,Enterprise,Defence,India,1,14,Tuesday,0,0,33
+L 969,COO,Startup,AI,United States,2,5,Thursday,2,0,16
+L 970,CEO,Scaleup,Fintech,United Kingdom,6,8,Friday,0,0,48
+L 971,CTO,Startup,AI,India,6,6,Tuesday,1,0,48
+L 972,GTM Head,Startup,Defence,China,7,12,Wednesday,3,0,31
+L 973,CMO,Enterprise,Fintech,United States,6,13,Monday,2,1,28
+L 974,Marketing Head,Startup,Construction,United Kingdom,7,9,Friday,0,1,31
+L 975,Marketing Head,Corporation,Fintech,United Kingdom,7,13,Wednesday,3,1,31
+L 976,Marketing Head,Startup,Defence,Canada,7,15,Thursday,2,1,31
+L 977,Marketing Head,Enterprise,Fintech,Canada,6,12,Tuesday,2,1,28
+L 978,COO,Startup,Defence,India,8,10,Wednesday,3,0,34
+L 979,CTO,Corporation,Construction,Canada,10,3,Monday,3,1,60
+L 980,GTM Head,Corporation,AI,United States,4,13,Tuesday,1,1,22
+L 981,CEO,SMB,AI,United Kingdom,4,15,Friday,0,0,42
+L 982,CEO,Corporation,Fintech,Canada,10,15,Monday,3,1,60
+L 983,CMO,Scaleup,Healthcare,Canada,7,6,Monday,2,1,31
+L 984,CTO,Enterprise,AI,Canada,3,10,Friday,0,0,39
+L 985,CTO,Startup,AI,Canada,9,6,Tuesday,2,1,57
+L 986,Marketing Head,Enterprise,Defence,United States,9,6,Friday,1,1,37
+L 987,Recruiter,Enterprise,Defence,China,4,15,Friday,0,0,22
+L 988,CEO,Scaleup,AI,India,3,15,Thursday,1,1,39
+L 989,CEO,Startup,Fintech,India,3,9,Friday,3,0,39
+L 990,COO,Startup,AI,United States,10,11,Thursday,3,0,40
+L 991,COO,Scaleup,Construction,United Kingdom,6,11,Monday,3,0,28
+L 992,Recruiter,Startup,AI,United Kingdom,9,5,Friday,3,1,37
+L 993,CMO,SMB,Fintech,United States,9,14,Wednesday,3,0,37
+L 994,CTO,Startup,Fintech,Canada,9,14,Tuesday,2,1,57
+L 995,CMO,Startup,Construction,United States,9,8,Friday,1,1,37
+L 996,CTO,Enterprise,Healthcare,China,1,7,Monday,2,0,33
+L 997,GTM Head,Enterprise,AI,United States,3,13,Thursday,1,1,19
+L 998,CTO,Scaleup,Construction,Canada,9,12,Tuesday,0,0,57
+L 999,CEO,Corporation,Defence,United Kingdom,1,13,Wednesday,0,0,33
