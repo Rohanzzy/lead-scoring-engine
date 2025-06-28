@@ -93,8 +93,8 @@ Growth & Data Science Learner | Focused on Outbound Tools & GTM Automation
 
 ### Connect with Me
 
-- [LinkedIn] https://www.linkedin.com/in/pathakrohan/
-- [GitHub] https://github.com/Rohanzzy
+- LinkedIn - https://www.linkedin.com/in/pathakrohan/
+- GitHub - https://github.com/Rohanzzy
 
 ---
 
