@@ -1,100 +1,80 @@
-# Lead Scoring Engine
+Lead Scoring Engine
+In this project, I built a simple rule-based lead scoring system to help prioritize outbound leads based on their job title and how personalized the outreach was.
 
-This project builds a simple rule-based lead scoring system to prioritize outbound leads based on their job title and personalization score.
+Problem Statement
+Sales and growth teams often deal with hundreds or thousands of leads at once. Figuring out which leads are worth reaching out to first can save time and boost conversion rates.
 
----
+What This Project Does
+Creates a fake dataset of 1,000 outbound leads to work with
 
-## Problem Statement
+Builds a scoring function that gives each lead a score based on:
 
-Sales and growth teams often handle hundreds or thousands of outbound leads. Identifying which leads are most valuable to contact first can improve conversion rates and team efficiency.
+Job Title – giving higher points to decision-makers like CEOs and CTOs
 
----
+Personalization Score – adding extra points if the outreach was more personalized
 
-## What This Project Does
+Shows the top-scoring leads so outreach efforts can focus on them first
 
-- Generates a synthetic dataset of 1,000 outbound leads
-- Builds a rule-based scoring function that assigns scores based on:
-  - Job Title (higher scores for C-level roles like CEO, CTO)
-  - Personalization Score (emails with higher personalization get extra points)
-- Outputs the top-scoring leads to prioritize outreach
+Dataset Overview
+Here’s what the dataset looks like:
 
----
+Column	Description
+lead_id	Unique ID for each lead
+job_title	The person’s job title (e.g. CEO, CTO, VP Sales)
+company_size	Size category of the company (Small, Medium, Large)
+industry	Industry sector (SaaS, Fintech, etc.)
+location	Country or region (US, India, Europe)
+personalization_score	How personalized the email was (scale of 1–10)
+subject_length	Number of words in the email subject line
+day_sent	Day of the week the email was sent
+followups_sent	Number of follow-up emails sent
+replied	Whether the lead replied (1) or didn’t (0) – this is the target column
 
-## Dataset Overview
+How the Scoring Works
+Job Title Weighting
 
-The dataset simulates typical cold outreach data with the following columns:
+CEO, CTO: +30 points
 
-| Column | Description |
-|--------|-------------|
-| lead_id | Unique identifier for each lead |
-| job_title | Title of the lead (CEO, CTO, VP Sales, etc) |
-| company_size | Company size category (Small, Medium, Large) |
-| industry | Industry sector (SaaS, Fintech, etc) |
-| location | Geography (US, India, Europe) |
-| personalization_score | Level of personalization in email (1-10) |
-| subject_length | Length of email subject line in words |
-| day_sent | Day of the week email was sent |
-| followups_sent | Number of follow-ups sent |
-| replied | Whether the lead replied (1) or not (0); this is the target column |
+VP Sales: +20 points
 
----
+Marketing Manager: +15 points
 
-## How the Scoring Works
+Others: +10 points
 
-1. Job Title Weighting
-   - CEO, CTO: +30 points
-   - VP Sales: +20 points
-   - Marketing Manager: +15 points
-   - Others: +10 points
+Personalization Score
 
-2. Personalization Score
-   - Each personalization point adds +3 to the score
+Each personalization point adds +3 to the score
 
-3. Final Score
-   - Sum of job title weight and personalization impact
+Final Score
 
----
+The total is calculated by adding the job title weight and personalization impact
 
-## Why This Matters
+Why This Matters
+Tools like Clay.com help sales teams enrich, clean, and prioritize their leads. This project shows how basic scoring logic can already make a big difference before adding complex machine learning models.
 
-Companies like Clay.com build tools to enrich, deduplicate, and prioritize leads. This project demonstrates:
+Next Steps
+Here’s what I plan to add next:
 
-- Domain understanding of outbound sales
-- Ability to build a practical scoring algorithm without machine learning
-- How simple business logic can drive immediate value
+Turn this into a small Streamlit app so anyone can score leads interactively
 
----
+Make the scoring logic smarter by including:
 
-## Next Steps
+Industry-based scoring
 
-- Integrate with Streamlit to create an interactive lead scoring app
-- Expand the scoring function to include:
-  - Industry weightings
-  - Day sent impact
-  - Follow-up penalties
+Day sent impact
 
----
+Follow-up penalties or bonuses
 
-## Project Files
+Project Files
+File	Description
+lead_scoring.ipynb	The Jupyter notebook with all code, data generation, and analysis
+README.md	This project description file
 
-| File | Description |
-|------|-------------|
-| lead_scoring.ipynb | Jupyter notebook with code, EDA, and scoring function |
-| README.md | This project documentation |
+About Me
+I’m Rohan Pathak. I work in Growth and am learning Data Science, focusing on outbound tools and GTM automation.
 
----
+Connect with Me
+LinkedIn
 
-## Author
-
-Rohan Pathak  
-Growth & Data Science Learner | Focused on Outbound Tools & GTM Automation
-
----
-
-### Connect with Me
-
-- LinkedIn - https://www.linkedin.com/in/pathakrohan/
-- GitHub - https://github.com/Rohanzzy
-
----
+GitHub
 
