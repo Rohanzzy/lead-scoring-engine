@@ -84,7 +84,7 @@ Here’s what I plan to add next:
 
 ## About Me
 
-I’m **Rohan Pathak**. I work in Growth and am learning Data Science, focusing on outbound tools and GTM automation.
+I’m **Rohan Pathak**. I work in Growth and am learning Data Science, focusing on outbound tools and GTM automation. I have more than a year of experience working as Head of Growrh in high growth YC-backed company where I was responsible for customer retention, customer LTV increase and overseeing data of customers to help make data driven decisions. I want to take this experience and dive into the world of data science and help companies improve their decision making with data and increase ROI. 
 
 ### Connect with Me
 
