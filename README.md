@@ -72,7 +72,7 @@ Tools like [Clay.com](https://clay.com) help sales teams **enrich, clean, and pr
 
 Try out the interactive app here:
 
-👉 [Streamlit Lead Scoring App] https://lead-scoring-engine-rnbn7q3ugacx9nbnc3ra9f.streamlit.app/
+[Streamlit Lead Scoring App] https://lead-scoring-engine-rnbn7q3ugacx9nbnc3ra9f.streamlit.app/
 
 ---
 
@@ -104,7 +104,7 @@ I’m **Rohan Pathak**, currently working as Head of Growth at Persana AI, a hig
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/pathakrohan/)
 - [GitHub](https://github.com/Rohanzzy)
