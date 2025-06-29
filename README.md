@@ -88,7 +88,7 @@ Here’s what I plan to add next:
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 | File            | Description                                         |
 |-----------------|-----------------------------------------------------|
@@ -98,7 +98,7 @@ Here’s what I plan to add next:
 
 ---
 
-## 👤 About Me
+## About Me
 
 I’m **Rohan Pathak**, currently working as Head of Growth at Persana AI, a high-growth YC-backed company, where I focus on customer retention, increasing LTV, and data-driven decision making. I am now learning Data Science to help companies improve decisions and increase ROI with data.
 
